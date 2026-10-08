@@ -53,7 +53,7 @@ FIELDS = [
     ("Now", "RAG com LLMs locais · JWT/OAuth2 · Superset"),
     ("Web", "luisfonseca.com.br"),
     ("Mail", "luis.dev_@outlook.com"),
-    ("LinkedIn", "linkedin.com/in/luis-henrique-281b97186"),
+    ("LinkedIn", "linkedin.com/in/luis-henrique-fonseca"),
 ]
 
 # `cat stack.txt` — grupo (até 15 caracteres) e itens
