@@ -51,7 +51,7 @@ FIELDS = [
     ("Build", "APIs FastAPI · automação · dados & BI"),
     ("Deploy", "Linux · Docker · NGINX"),
     ("Now", "RAG com LLMs locais · JWT/OAuth2 · Superset"),
-    ("Web", "luis-lhgdf.github.io/portfolio"),
+    ("Web", "luisfonseca.com.br"),
     ("Mail", "luis.dev_@outlook.com"),
     ("LinkedIn", "linkedin.com/in/luis-henrique-281b97186"),
 ]
